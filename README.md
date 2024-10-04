@@ -13,7 +13,7 @@ d___ The size of each dot is fixed.<br/>
 
 Video file is attached to this link : https://github.com/user-attachments/assets/82dc20af-f98c-41e9-9284-1cb522017655<br/>
 
-**How to use Project**
+**How to use Project**<br/>
 Ensure that you have Python 3 installed.<br/>
 Install the turtle module, which is a standard Python library.<br/>
 Run python main.py to generate a new Hirst Spot Painting.<br/>
