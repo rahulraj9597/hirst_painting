@@ -4,11 +4,11 @@ Damien Hirst's spot paintings consist of colorful dots arranged in a grid on a w
 
 **Project Description**
 
-Each painting is unique and randomly generated.
-The dots will be arranged in a grid pattern.
+_Each painting is unique and randomly generated._
+_The dots will be arranged in a grid pattern._
 The color of each dot is randomly selected from a predetermined set of colors.
 The size of each dot is fixed.
-•	hello
+
 ![image](https://github.com/user-attachments/assets/c4ecb17a-d298-4ecb-9399-638b17bec0f8)
 
 Video file is attached to this link : https://github.com/user-attachments/assets/82dc20af-f98c-41e9-9284-1cb522017655
