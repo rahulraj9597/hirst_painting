@@ -8,7 +8,7 @@ The dots will be arranged in a grid pattern.
 The color of each dot is randomly selected from a predetermined set of colors.
 The size of each dot is fixed.
 ![image](https://github.com/user-attachments/assets/c4ecb17a-d298-4ecb-9399-638b17bec0f8)
-
+https://github.com/user-attachments/assets/82dc20af-f98c-41e9-9284-1cb522017655
 
 
 Clone this repository to your local machine using git clone https://github.com/GokulBakkiyarasu/Hirst_spot_painting_using_python.git
