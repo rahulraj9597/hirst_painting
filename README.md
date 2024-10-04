@@ -1,1 +1,1 @@
-# hirst_painting
+# Hirst_Spot_Painting
